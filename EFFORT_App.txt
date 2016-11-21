@@ -1,0 +1,13 @@
+E.F.F.O.R.T is a program made for the tutoring center at Sheridan College.
+Every month someone is responsible for creating reports for English, Math, 
+Computer Science, Business Math, & Online English. They use a program that 
+gathers numbers off harepoint and generates graphs and reports. These 
+numbers and graphs need to be validated which can take hours to complete 
+manually. This process can be tedious and can have errors as it is done manually
+and can be miscounted. I have made a program that pools the numbers off of Sharepoint
+and can quickly give you statistics that can be used to validate numbers and graphs. This
+has made the process significantly shorter, down from a few hours to a few minutes.
+
+This uses JavaFX for the GUI and a few plug-ins used for reading from an excel file. 
+
+NOTE: Can only be used with .xls files.
